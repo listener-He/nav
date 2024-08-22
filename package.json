@@ -2,7 +2,7 @@
   "gitRepoUrl": "https://github.com/listener-He/nav",
   "provider": "Github",
   "branch": "main",
-  "hashMode": true,
+  "hashMode": false,
   "address": "https://nav.hehouhui.cn",
   "password": "l)Ik1Qc2R%M,YB9r806thNsqb.3|D{P5",
   "port": 7777,
